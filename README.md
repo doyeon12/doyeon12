@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=%20Developer&section=header&reversal=false&textBg=false&fontAlign=50&descAlign=100&descAlignY=78&strokeWidth=2&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=270&text=%20Developer&reversal=false&fontAlignY=50&animation=fadeIn)
 
 
 <h3 align="left">Languages and Tools:</h3>
